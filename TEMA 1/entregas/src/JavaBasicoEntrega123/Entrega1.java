@@ -1,4 +1,4 @@
-package JavaBasico;
+package JavaBasicoEntrega123;
 
 public class Entrega1 {
 
